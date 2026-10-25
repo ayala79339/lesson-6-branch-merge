@@ -1,4 +1,5 @@
 hello()
 {
-    return 'hii'
+ return 'hii'
+ return 5;
 }
